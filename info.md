@@ -1,9 +1,10 @@
 ### How to use
 
 ## API Key
-Join our Discord server to buy an API key.
-Each request costs 0,05$ from your request, you can add credit in our Discord Server.
-You have 1$ free credit trial if you join our Discord server.
+Join our Discord server to buy an API key and top-up balance.
+
+## Pricing
+1k tokens = 0.06$
 
 ## Code
 ```js
