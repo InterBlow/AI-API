@@ -6,3 +6,7 @@ Join our Discord server to buy an API key.
 400 requests per day: 8$,
 1000 requests per day: 15$,
 Unlimited requests per day: 25$,
+
+## Code
+```js
+fetch('https://api.interblow.pro/ai/v1', {token: "APIKEY", message: "MESSAGE"}).then((response) => response.json()).then((data) => console.log(data.responsemessage));```
